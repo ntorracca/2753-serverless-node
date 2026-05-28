@@ -1,0 +1,15 @@
+regions:
+- eu-east-1
+
+account-blocklist:
+- "999999999999" # production
+
+accounts:
+  "039148080193": {} # aws-nuke-example
+    filters:
+      IAMUser:
+      - "acessoCLI"
+      IAMUserPolicyAttachment:
+      - "acessoCLI -> AdministratorAccess"
+      IAMUserAccessKey:
+      - "acessoCLI -> AKIAQSHLIJRAV6TCT7GE"

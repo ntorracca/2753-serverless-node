@@ -1,0 +1,28 @@
+{
+  "userId": "9nMTtPBSd8PczQKmzd",
+  "frameworkId": "8fd0b120-59fe-11f1-9ee4-b31ebf436a67",
+  "trackingDisabled": false,
+  "enterpriseDisabled": false,
+  "meta": {
+    "created_at": 1779908529,
+    "updated_at": 1779986793
+  },
+  "users": {
+    "9nMTtPBSd8PczQKmzd": {
+      "userId": "9nMTtPBSd8PczQKmzd",
+      "name": "ntorracca@hotmail.com",
+      "email": "ntorracca@hotmail.com",
+      "username": "aluracursos",
+      "dashboard": {
+        "refreshToken": "kx0_5hXmwvFqYS5JqggDb1mIgxFcIULl7QT80pIhRvJqm",
+        "accessToken": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiaXNzIjoiaHR0cHM6Ly9hdXRoLnNlcnZlcmxlc3MuY29tLyJ9..80XGiKoLH0oBh0hB.iHVdvCS_7BhBApinBywtaTlnHhgH2u_CNipe2T_QreMWhx2PIoYG-4MQRFlchkYL6gh2wqLK8jOCIMjNHkZHJxw928zu81ksTDuEGp2W59lN4rhWGIUhBIudqmfzsyXlQoR1waQVVmTLsF3KPH3rTuvMaB2PAZI2S0fZMnKnWS_ZshTVMiaXnNR4iafDtVgtx7QCYQ-kmP7KJspHMUbD5udoyz0dQGr7knHhOedzQFyKIUS10XBvtVIfeKkI6tDCE9TRRAeBVM947DFTUPxYPhLtH8vh2UeP-iqokVWoWv_9kDHpyL8wSJr6YNexuhKdcm6Y-r-kHvJv.nd4_O9gmUWHK_wuK4XUl8Q",
+        "idToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik56azVNREl5TVRnNFJqWTBORGswT0VJM1JrRXpORGN4UmtVMU1FWXdNemczT1VKQlFqRTBNZyJ9.eyJuaWNrbmFtZSI6Im50b3JyYWNjYSIsIm5hbWUiOiJudG9ycmFjY2FAaG90bWFpbC5jb20iLCJwaWN0dXJlIjoiaHR0cHM6Ly9zLmdyYXZhdGFyLmNvbS9hdmF0YXIvMzliMDcyZWRiNTQ1ZTJmNGJkZTUxYzdlZDU4NjJiODc_cz00ODAmcj1wZyZkPWh0dHBzJTNBJTJGJTJGY2RuLmF1dGgwLmNvbSUyRmF2YXRhcnMlMkZudC5wbmciLCJ1cGRhdGVkX2F0IjoiMjAyNi0wNS0yN1QxODo1OTo1MS43MzhaIiwiZW1haWwiOiJudG9ycmFjY2FAaG90bWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImlzcyI6Imh0dHBzOi8vYXV0aC5zZXJ2ZXJsZXNzLmNvbS8iLCJhdWQiOiJZQUhPRzhwYXBiMXRrckx0dE5Wb1ZPU3M0WUxPanJOaiIsInN1YiI6ImF1dGgwfDZhMTczZjI2ZGI3NGIxODY3MzhlMzU3MyIsImlhdCI6MTc3OTkwODM5NiwiZXhwIjoxNzgwNzcyMzk2LCJzaWQiOiIzUVU4c05pMmxFQUE4LTlqSE9LSThxZV81SzhhSEJSUyJ9.h72LiwNVIBHR_cT4rXwBY_HrWLmHLqgEHhCGnNa-lo1zrzkG7_g2FytYORHOO-AvjuS5cHn-ezpB4drN2nHbhLDr4t2NJdTYzCzUZhT8AMhNcONKk_IQ7u06tacF0w2BE91cueyO3rgDY_jWgRjwYoIqHDKZ4vjNrSUSkA7exigXe17KvWI8SN0oKaN9rI7poqcM46lXxR5NBRIxUZmHVWMMbCWNmJB0q0Qy2F5ejZ9pE2CABoKBU3uFmCO9QIgfpL_HnIfMK6_Q8HYU6nNzbWKCp-WYwcuCfZm4bH0KpjGgTWenA3JOYJWHzb_L8oCc4dIcnLcHhKyrzWdvLi6axw",
+        "expiresAt": 86400,
+        "username": "aluracursos",
+        "accessKeys": {
+          "aluracursos": "AKMZ1Lqu68nV9bhjSc4elF813eq4amwLgMhpczpWYmd1p"
+        }
+      }
+    }
+  }
+}
