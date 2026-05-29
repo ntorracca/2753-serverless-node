@@ -1,11 +1,22 @@
-org: cursos19580721
-app: aws-serverless
-service: aws-serverless-node
+org: aluracursos
+app: api
+service: alura-serverless
+
 frameworkVersion: '3'
+
+params:
+  default:
+    dbName: alura-serverless
+  dev:
+    connectionString: mongodb://localhost:27017/${self:params.default.dbName}
+  prod: 
 
 provider:
   name: aws
   runtime: nodejs18.x
+  environment:
+    MONGODB_CONNECTIONSTRING: ${param:connectionString}
+    MONGO_DB_NAME: ${param:dbName}
 
 functions:
   sendResponse:
@@ -14,12 +25,18 @@ functions:
       - httpApi:
           path: /api/results
           method: post
-          request:
-            schemas:
-              application/json: ${file(./schemas/sendResponse.json)}
+#          request:
+#            schemas:
+#              application/json: ${file(./schemas/sendResponse.json)}
+              
   getResult:
     handler: api/index.getResult
     events:
       - httpApi:
           path: /api/results/{id}
           method: get
+
+configValidationMode: ignore
+
+plugins:
+  - serverless-offline
